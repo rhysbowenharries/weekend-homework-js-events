@@ -1,0 +1,63 @@
+#heading{
+  font-family: "fantasy", Courier, monospace;
+  font-weight: bold;
+  margin-left: 30px;
+  align-content: center;
+}
+
+#warning{
+  font-family: "fantasy"
+}
+
+#button{
+  font-size: 30px;
+  border-radius: 5px;
+  background-color: red;
+}
+
+#fighting-style{
+  font-family: "fantasy"
+  align-content:flex-end;
+}
+
+#submit{
+  font-size: 30px;
+  border-radius: 5px;
+  color: : white;
+  background-color: black;
+}
+
+
+body {
+  margin-left: 30px;
+  background-image: url(giphy.gif);
+  background-size: cover;
+}
+
+button{
+  color: white
+}
+
+#monsterName {
+  margin-top: : : 10px;
+  margin-bottom: 20px;
+}
+
+#monstersMadeTitle{
+  color: red;
+}
+#monstersMade{
+  font-family: edarville-cursive;
+  color: red;
+  margin-top: : : 10px;
+  margin-bottom: 20px;
+}
+
+.li{
+  margin-top: : : 10px;
+  margin-bottom: 20px;
+}
+
+#delete-all{
+  color: black
+}
